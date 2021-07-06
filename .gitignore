@@ -13,6 +13,7 @@ convnet/
 decaf/
 submission/
 .fuse*
+darknet/yolov3.weights
 
 # OS Generated #
 .DS_Store*
